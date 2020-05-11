@@ -3,3 +3,26 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+.jumbotron {
+    background-color: #ffdbaa;
+}
+
+.jumbotron h1 {
+    font-size: 300%;
+    color: #553100;
+    text-align: left;
+}
+
+body {
+    background-color: #d4a76a;
+}
+
+.nav {
+    float: right;
+}
+
+button {
+    background-color: #805215;
+    color: #ffffff;
+}
